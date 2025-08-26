@@ -1,4 +1,8 @@
-# [In The Age Of AI, Everything Is An API](https://www.forbes.com/sites/forbestechcouncil/2023/09/18/in-the-age-of-ai-everything-is-an-api/?sh=7a5f948b46ae)
+# In The Age Of AI, Everything Is An API
+
+```
+https://www.forbes.com/sites/forbestechcouncil/2023/09/18/in-the-age-of-ai-everything-is-an-api/?sh=7a5f948b46ae
+```
 
 As we navigate through the rapidly evolving landscape of digital transformation, two juggernauts—artificial intelligence (AI) and application programming interfaces (APIs)—are increasingly dictating the pace and direction of innovation. Though powerful individually, their collective potential is ushering us into an era of unprecedented interconnectedness and adaptability. In the midst of this technological renaissance, we can aptly say, “In the age of AI, everything is an API.”
 
